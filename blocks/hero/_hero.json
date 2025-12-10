@@ -41,11 +41,11 @@
           "label": "Text",
           "valueType": "string"
         },
-        {
-          "component": "button",
+         {
+          "component": "richtext",
           "name": "text",
           "value": "",
-          "label": "button",
+          "label": "Text",
           "valueType": "string"
         }
       ]
