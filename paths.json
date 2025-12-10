@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/edgePractice/:/",
-    "/content/edgePractice/configuration:/.helix/config.json",
-    "/content/edgePractice/metadata:/metadata.json"
+   "/content/aem-boilerplate/:/",
+    "/content/aem-boilerplate/configuration:/.helix/config.json",
+    "/content/aem-boilerplate/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/edgePractice/"
+    "/content/aem-boilerplate/"
   ]
 }
