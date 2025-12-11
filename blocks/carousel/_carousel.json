@@ -42,6 +42,13 @@
           "name": "classNames",
           "label": "Class Names",
           "value": ""
+        },
+            {
+          "component": "image",
+          "valueType": "string",
+          "name": "imageCarousel",
+          "label": "Carousel Image Path",
+          "value": ""
         }
       ]
     },
