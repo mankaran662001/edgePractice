@@ -265,7 +265,7 @@
       "component": "fieldset",
       "name": "carouselItems",
       "label": "Carousel Items",
-      "valueType": "array",
+      "valueType": "",
       "items": {
         "valueType": "object",
         "fields": [
@@ -273,13 +273,13 @@
             "component": "text",
             "name": "classNames",
             "label": "Class Names",
-            "valueType": "string"
+            "valueType": ""
           },
           {
             "component": "image",
             "name": "imageCarousel",
             "label": "Carousel Image Path",
-            "valueType": "string"
+            "valueType": ""
           }
         ]
       }
