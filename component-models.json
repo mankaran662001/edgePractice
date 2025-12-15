@@ -257,7 +257,33 @@
           "name": "imageCarousel",
           "label": "Carousel Image Path",
           "value": ""
+        },
+        {
+          "id": "ekam",
+          "fields": [
+            {
+              "component": "fieldset",
+              "name": "carouselItems",
+              "label": "Carousel Items",
+              "multiple": true,
+              "fields": [
+                {
+                  "component": "text",
+                  "valueType": "string",
+                  "name": "classNames",
+                  "label": "Class Names"
+                },
+                {
+                  "component": "image",
+                  "valueType": "string",
+                  "name": "imageCarousel",
+                  "label": "Carousel Image Path"
+                }
+              ]
+            }
+          ]
         }
+
     ]
   }
 ]
