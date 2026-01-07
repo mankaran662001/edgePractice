@@ -257,35 +257,7 @@
           "name": "imageCarousel",
           "label": "Carousel Image Path",
           "value": ""
-        },
-      {
-  "id": "ekam",
-  "fields": [
-    {
-      "component": "fieldset",
-      "name": "carouselItems",
-      "label": "Carousel Items",
-      "valueType": "",
-      "items": {
-        "valueType": "object",
-        "fields": [
-          {
-            "component": "text",
-            "name": "classNames",
-            "label": "Class Names",
-            "valueType": ""
-          },
-          {
-            "component": "image",
-            "name": "imageCarousel",
-            "label": "Carousel Image Path",
-            "valueType": ""
-          }
-        ]
-      }
-    }
-  ]
-}
+        }
 
 
     ]
